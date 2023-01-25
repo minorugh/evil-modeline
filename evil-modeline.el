@@ -1,10 +1,10 @@
-;;; evil-mode-line.el --- Mode line plugin for Evil
+;;; evil-modeline.el --- Mode line plugin for Evil
 
 ;; Author: INA Lintaro <tarao.gnn at gmail.com>
 ;; URL: http://github.com/tarao/evil-plugins
 ;; Version: 0.1
 ;; Keywords: evil, plugin
-
+;; Modify: Minoru Yamada <minorugh at gmail.com>
 ;; This file is NOT part of GNU Emacs.
 
 ;;; License:
@@ -27,7 +27,7 @@
 (require 'evil)
 (require 'mode-line-color)
 
-(defgroup evil-mode-line nil
+(defgroup evil-modeline nil
   "Mode line color and message for Evil"
   :group 'evil)
 
