@@ -1,4 +1,4 @@
-;;; evil-modeline.el --- Mode line plugin for Evil
+;;; evil-mode-line.el --- Mode line plugin for Evil
 
 ;; Author: INA Lintaro <tarao.gnn at gmail.com>
 ;; URL: http://github.com/tarao/evil-plugins
@@ -27,7 +27,7 @@
 (require 'evil)
 (require 'mode-line-color)
 
-(defgroup evil-modeline nil
+(defgroup evil-mode-line nil
   "Mode line color and message for Evil"
   :group 'evil)
 
