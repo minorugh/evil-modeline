@@ -38,7 +38,7 @@
 	(replace  . "#575735")
 	(operator . "DarkSeaGreen4")
 	(visual   . "SteelBlue4")
-	(emacs . "#8b4513"))
+	(emacs . "#282a36"))
   "Mode line color corresponds to Evil state."
   :type '(alist :key-type symbol :value-type string)
   :group 'evil-mode-line)
